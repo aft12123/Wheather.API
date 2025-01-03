@@ -1,0 +1,56 @@
+body{
+    background-color: chocolate;
+}
+.h{
+   padding-left: 500px;
+   background-color: white;
+   padding-left: 500px;
+   padding-right: 300px;
+   border-radius: 20px;
+   
+   
+   
+   
+}
+.input{
+    margin-left: 500px;
+    margin-top: 50px;
+    padding: 10px 20px 20px 20px;
+    margin-right: 850px;
+    background-image: url(API.1.jpg);
+    backface-visibility: initial;
+    border-radius: 10px;
+    
+    
+}
+#cityinput{
+
+    padding: 20px 70px 20px 40px;
+    border-radius: 20px;
+    border-style: dotted;
+    border-color: brown;
+    
+}
+ #add{
+    padding: 10px 60px 10px 50px;
+    margin: 0px 0px 0px 50px;
+    border-style: dotted;
+    border-radius: 10px;
+    border-color: brown;
+    margin-bottom: 30px;
+}
+.display{
+    background-color: gray;
+    margin-left: 500px;
+    margin-top: 50px;
+    padding: 10px 0px 10px 30px;
+    margin-right: 850px;
+    border-radius: 10px;
+    
+}
+.wrapper{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    font-variant: inherit;
+}
+
